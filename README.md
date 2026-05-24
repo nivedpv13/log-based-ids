@@ -123,4 +123,4 @@ This tool simulates core functionality of a SIEM log parser — detecting, corre
 **Nived PV**  
 Cybersecurity Enthusiast | OCSP | Penetration Testing | SOC  
 Kerala, India  
-(#) www.linkedin.com/in/nived-pv-
+www.linkedin.com/in/nived-pv-
